@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-11-19-my-first-post/",
+    "title": "my first post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "DEW distill blog",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-11-19",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill. \r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-11-19T17:46:30-05:00",
+    "input_file": "my-first-post.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",

@@ -17,3 +17,12 @@ usethis::use_git()
 ## had to totally shut down RStudio and restart using the project in my blog and
 ##that got me the Git and now need to rerun the usethis
 usethis::use_github()
+## that pushed this site to my DrDawnStats GitHub account. Ha!
+## now need to go loginto Netlify
+## sign in to Netlify and click New site from Git
+##Netlify checked and verified my GH account
+##asking for which repos - I just picke the distill 
+##needed GH password. picked just my blog and set up my-distill-site
+##here he shows how to create individual blog posts https://youtu.be/WZt4H-ogH3s?t=349
+distill::create_post("my first post")
+## do the normal rmarkdown creating and hit Knit

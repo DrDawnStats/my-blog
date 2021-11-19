@@ -11,5 +11,9 @@ install.packages("usethis")
 usethis::use_git()
 ## answer option 3 Not Now to is it ok to commit them?
 
-## answer option 1 to restart but the newer version I should have use 2 for Absolutely
+## answer option 1 to restart but the newer version I should have use 2 
+##for Absolutely
 usethis::use_git()
+## had to totally shut down RStudio and restart using the project in my blog and
+##that got me the Git and now need to rerun the usethis
+usethis::use_github()

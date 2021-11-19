@@ -18,7 +18,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
+this code
 
+library(tidyverse)
+
+ggplot(mtcars, aes(mpg, hp))
+
+```{r}
+# add some code here
+library(tidyverse)
+ggplot(mtcars, aes(mpg, hp))
+```
+```{r}
+# add some code here
+library(tidyverse)
+ggplot(mtcars, aes(mpg, hp)) +
+  geom_point()
+```
+
+```{r}
+# add some code here
+library(tidyverse)
+ggplot(mtcars, aes(mpg, hp)) +
+  geom_point() +
+  geom_smooth()
+```
 
 
 ```{r}

@@ -7,3 +7,9 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r}
+knitr::include_graphics("images/hint.png")
+```
+
+include_graphics("images/hint.png")

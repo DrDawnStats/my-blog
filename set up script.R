@@ -27,4 +27,8 @@ usethis::use_github()
 distill::create_post("my first post")
 ## do the normal rmarkdown creating and hit Knit
 ## when I make changes, I need to knit and then commit to Github and then Push.
-##when the Push is complete, the site at Netlify is automatically updated too.
+##when the Push is complete, the site at Netlify is automatically upda
+##ted too.
+## to make it easier to check the boxes, go to the Terminal and put git add -A
+## that adds them all to the commit and then can go direct to PUsh
+##need to find out how to add images to blog posts

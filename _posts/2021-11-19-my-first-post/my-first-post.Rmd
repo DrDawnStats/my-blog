@@ -56,4 +56,4 @@ ggplot(mtcars, aes(mpg, hp)) +
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 ![](./images/clock.png)
-
+Imag

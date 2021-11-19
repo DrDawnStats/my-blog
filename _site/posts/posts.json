@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nthis code\r\nlibrary(tidyverse)\r\nggplot(mtcars, aes(mpg, hp))\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nLearn more about using Distill at https://rstudio.github.io/distill. \r\n\r\n\r\n\r\n",
     "preview": "posts/2021-11-19-my-first-post/my-first-post_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2021-11-19T18:01:07-05:00",
-    "input_file": "my-first-post.knit.md"
+    "last_modified": "2021-11-19T18:01:08-05:00",
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",

@@ -18,6 +18,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
+
+
+
+```{r}
+# add some code here
+library(tidyverse)
+ggplot(mtcars, aes(mpg, hp)) +
+  geom_point() +
+  geom_smooth() +
+  theme_bw()
+```
+
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 ![](./images/clock.png)
 

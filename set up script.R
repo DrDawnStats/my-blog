@@ -26,3 +26,5 @@ usethis::use_github()
 ##here he shows how to create individual blog posts https://youtu.be/WZt4H-ogH3s?t=349
 distill::create_post("my first post")
 ## do the normal rmarkdown creating and hit Knit
+## when I make changes, I need to knit and then commit to Github and then Push.
+##when the Push is complete, the site at Netlify is automatically updated too.
